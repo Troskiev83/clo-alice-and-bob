@@ -1,0 +1,5 @@
+numpy>=1.20.0
+qiskit>=0.35.0
+qiskit-aer>=0.10.0
+qiskit-optimization>=0.4.0
+qiskit-alice-bob-provider

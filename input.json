@@ -1,0 +1,497 @@
+{
+  "data":
+{
+  "loans": [
+    {
+      "exposure": 2755720.93,
+      "expected_return": 0.0164,
+      "credit_risk_rating": 6,
+      "industries": [
+        1,
+        0,
+        1,
+        1,
+        1
+      ],
+      "countries": [
+        1,
+        1,
+        0
+      ],
+      "sectors": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "credit_risk_threshold_flag": false
+    },
+    {
+      "exposure": 447542.18,
+      "expected_return": 0.1306,
+      "credit_risk_rating": 5,
+      "industries": [
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "countries": [
+        0,
+        1,
+        0
+      ],
+      "sectors": [
+        0,
+        1,
+        0,
+        1
+      ],
+      "credit_risk_threshold_flag": false
+    },
+    {
+      "exposure": 6535250.3,
+      "expected_return": 0.0824,
+      "credit_risk_rating": 9,
+      "industries": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "countries": [
+        1,
+        1,
+        1
+      ],
+      "sectors": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "credit_risk_threshold_flag": false
+    },
+    {
+      "exposure": 2370648.65,
+      "expected_return": 0.0643,
+      "credit_risk_rating": 4,
+      "industries": [
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "countries": [
+        1,
+        0,
+        0
+      ],
+      "sectors": [
+        0,
+        1,
+        0,
+        1
+      ],
+      "credit_risk_threshold_flag": false
+    },
+    {
+      "exposure": 2208195.43,
+      "expected_return": 0.078,
+      "credit_risk_rating": 5,
+      "industries": [
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "countries": [
+        0,
+        1,
+        1
+      ],
+      "sectors": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "credit_risk_threshold_flag": false
+    },
+    {
+      "exposure": 3501518.39,
+      "expected_return": 0.131,
+      "credit_risk_rating": 4,
+      "industries": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "countries": [
+        1,
+        0,
+        1
+      ],
+      "sectors": [
+        1,
+        0,
+        1,
+        1
+      ],
+      "credit_risk_threshold_flag": false
+    },
+    {
+      "exposure": 764244.21,
+      "expected_return": 0.1068,
+      "credit_risk_rating": 8,
+      "industries": [
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "countries": [
+        1,
+        0,
+        0
+      ],
+      "sectors": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "credit_risk_threshold_flag": false
+    },
+    {
+      "exposure": 2392944.34,
+      "expected_return": 0.0974,
+      "credit_risk_rating": 8,
+      "industries": [
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "countries": [
+        0,
+        0,
+        0
+      ],
+      "sectors": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "credit_risk_threshold_flag": false
+    },
+    {
+      "exposure": 1808900.62,
+      "expected_return": 0.1078,
+      "credit_risk_rating": 9,
+      "industries": [
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "countries": [
+        1,
+        0,
+        0
+      ],
+      "sectors": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "credit_risk_threshold_flag": false
+    },
+    {
+      "exposure": 9459338.15,
+      "expected_return": 0.0813,
+      "credit_risk_rating": 5,
+      "industries": [
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      "countries": [
+        1,
+        1,
+        1
+      ],
+      "sectors": [
+        1,
+        0,
+        1,
+        1
+      ],
+      "credit_risk_threshold_flag": false
+    },
+    {
+      "exposure": 7868157.4,
+      "expected_return": 0.0543,
+      "credit_risk_rating": 2,
+      "industries": [
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      "countries": [
+        0,
+        1,
+        0
+      ],
+      "sectors": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "credit_risk_threshold_flag": false
+    },
+    {
+      "exposure": 5936874.95,
+      "expected_return": 0.0363,
+      "credit_risk_rating": 8,
+      "industries": [
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "countries": [
+        1,
+        0,
+        0
+      ],
+      "sectors": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "credit_risk_threshold_flag": false
+    },
+    {
+      "exposure": 1318402.22,
+      "expected_return": 0.0319,
+      "credit_risk_rating": 1,
+      "industries": [
+        1,
+        0,
+        1,
+        1,
+        1
+      ],
+      "countries": [
+        1,
+        1,
+        0
+      ],
+      "sectors": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "credit_risk_threshold_flag": false
+    },
+    {
+      "exposure": 3067962.11,
+      "expected_return": 0.1289,
+      "credit_risk_rating": 4,
+      "industries": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "countries": [
+        1,
+        1,
+        1
+      ],
+      "sectors": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "credit_risk_threshold_flag": false
+    },
+    {
+      "exposure": 1186658.61,
+      "expected_return": 0.0626,
+      "credit_risk_rating": 3,
+      "industries": [
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "countries": [
+        1,
+        0,
+        1
+      ],
+      "sectors": [
+        0,
+        1,
+        1,
+        1
+      ],
+      "credit_risk_threshold_flag": false
+    },
+    {
+      "exposure": 7457718.85,
+      "expected_return": 0.1309,
+      "credit_risk_rating": 1,
+      "industries": [
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "countries": [
+        0,
+        0,
+        1
+      ],
+      "sectors": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "credit_risk_threshold_flag": false
+    },
+    {
+      "exposure": 7396427.12,
+      "expected_return": 0.1328,
+      "credit_risk_rating": 6,
+      "industries": [
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "countries": [
+        0,
+        1,
+        1
+      ],
+      "sectors": [
+        1,
+        1,
+        0,
+        1
+      ],
+      "credit_risk_threshold_flag": false
+    },
+    {
+      "exposure": 7035866.36,
+      "expected_return": 0.1367,
+      "credit_risk_rating": 10,
+      "industries": [
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      "countries": [
+        1,
+        0,
+        0
+      ],
+      "sectors": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "credit_risk_threshold_flag": false
+    },
+    {
+      "exposure": 5759753.11,
+      "expected_return": 0.1038,
+      "credit_risk_rating": 7,
+      "industries": [
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      "countries": [
+        1,
+        1,
+        1
+      ],
+      "sectors": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "credit_risk_threshold_flag": false
+    },
+    {
+      "exposure": 6122004.17,
+      "expected_return": 0.057,
+      "credit_risk_rating": 1,
+      "industries": [
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "countries": [
+        0,
+        1,
+        0
+      ],
+      "sectors": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "credit_risk_threshold_flag": false
+    }
+  ],
+  "industry_concentration_limit": 0.26,
+  "country_concentration_limit": 0.29,
+  "credit_risk_threshold": 1,
+  "excluded_sectors": [
+    3,
+    4,
+    2,
+    1
+  ],
+  "total_exposure_limit": 12027885.4
+}
+}
